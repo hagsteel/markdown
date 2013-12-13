@@ -1,4 +1,4 @@
-import hs_markdown as ext_markdown
+import markdown as ext_markdown
 from django import template
 from django.template.defaultfilters import stringfilter
 from django.utils.encoding import force_unicode
